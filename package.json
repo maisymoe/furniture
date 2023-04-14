@@ -1,10 +1,8 @@
 {
-    "dependencies": {
-        "esbuild": "^0.15.13",
-        "esbuild-plugin-solid": "^0.4.2",
-        "esbuild-sass-plugin-ysink": "^2.3.3",
-        "postcss": "^8.4.17",
-        "postcss-modules": "^5.0.0",
-        "solid-js": "^1.6.2"
-    }
+  "devDependencies": {
+    "@uwu/lune": "^1.2.1",
+    "@uwu/shelter-defs": "^1.1.0"
+  },
+  "type": "module",
+  "workspaces": ["plugins/*"]
 }

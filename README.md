@@ -1,11 +1,8 @@
-# shelter plugins
+# [Your name here]'s shelter plugins
 
-This repo contains my [shelter](https://github.com/uwu/shelter/) plugins.
+If you're reading this you should either change this README,
+or you should run `npx degit uwu/shelter-template shelter-plugins`!
 
-# How to install?
+You should be using pnpm with this template ideally.
 
-Paste a plugin URL into the add plugins modal in shelter.
-
-# Template repo
-
-Based on [Xirreal's plugins repo](https://github.com/xirreal-plugins/xirreal-plugins.github.io) and my [old Cumcord plugins repo](https://github.com/beef-archive/meatloaf).
+You can build all plugins with `pnpm lune ci`.
