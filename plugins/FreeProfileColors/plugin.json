@@ -1,0 +1,6 @@
+{
+    "name": "FreeProfileColors",
+    "author": "Beef",
+    "description": "Allows using custom profile colors without Nitro via invisible 3y3 text. Port of https://github.com/twnlink/vendetta-plugins/tree/master/plugins/FreeProfileColors/",
+    "main": "src/index.ts"
+}
