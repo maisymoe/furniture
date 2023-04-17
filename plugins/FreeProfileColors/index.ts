@@ -30,4 +30,4 @@ export const onUnload = flux.intercept((dispatch) => {
         dispatch.premium_type = 2;
         dispatch.bio.replaceAll(globalColorRegex, "");
     } catch {};
-})
+});
