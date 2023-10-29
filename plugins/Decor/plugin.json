@@ -1,0 +1,6 @@
+{
+    "name": "Decor",
+    "author": "maisy",
+    "description": "Custom avatar decorations, powered by the Decor API.",
+    "main": "src/index.ts"
+}
